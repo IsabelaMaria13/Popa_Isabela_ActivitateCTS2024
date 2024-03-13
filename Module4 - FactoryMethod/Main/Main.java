@@ -1,3 +1,8 @@
+package Main;
+
+import src.classes.PersonalSpital;
+import src.factory.*;
+
 public class Main {
 
     public static void prelucrarePersonal(FabricaPersonal fabrica, String nume, int salariu) {
