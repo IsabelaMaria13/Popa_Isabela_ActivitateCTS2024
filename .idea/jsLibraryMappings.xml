@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{Node.js Core}" />
+    <file url="file://$PROJECT_DIR$/Module2" libraries="{Node.js Core}" />
+    <file url="file://$PROJECT_DIR$/Module3 - Singleton" libraries="{Node.js Core}" />
+    <file url="file://$PROJECT_DIR$/Module4 - FactoryMethod" libraries="{Node.js Core}" />
+    <file url="file://$PROJECT_DIR$/Module4 - SimpleFactory" libraries="{Node.js Core}" />
+  </component>
+</project>
