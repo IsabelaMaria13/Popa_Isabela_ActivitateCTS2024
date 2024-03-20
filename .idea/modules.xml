@@ -2,12 +2,24 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Test1/Spital/Ex1 - Builder/Ex1 - Builder.iml" filepath="$PROJECT_DIR$/Test1/Spital/Ex1 - Builder/Ex1 - Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test1/Farmacie/Ex1 - Simple Factory/Ex1 - Simple Factory.iml" filepath="$PROJECT_DIR$/Test1/Farmacie/Ex1 - Simple Factory/Ex1 - Simple Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test1/Restaurant/Ex1- Factory Method/Ex1- Factory Method.iml" filepath="$PROJECT_DIR$/Test1/Restaurant/Ex1- Factory Method/Ex1- Factory Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test1/Restaurant/Ex2 - Builder/Ex2 - Builder.iml" filepath="$PROJECT_DIR$/Test1/Restaurant/Ex2 - Builder/Ex2 - Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test1/Spital/Ex2 - Simple Factory/Ex2 - Simple Factory.iml" filepath="$PROJECT_DIR$/Test1/Spital/Ex2 - Simple Factory/Ex2 - Simple Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test1/Spital/Ex3 - Factory Method/Ex3 - Factory Method.iml" filepath="$PROJECT_DIR$/Test1/Spital/Ex3 - Factory Method/Ex3 - Factory Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test1/Restaurant/Ex3 - Simple Factory/Ex3 - Simple Factory.iml" filepath="$PROJECT_DIR$/Test1/Restaurant/Ex3 - Simple Factory/Ex3 - Simple Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test1/Spital/Ex4 - Prototype/Ex4 - Prototype.iml" filepath="$PROJECT_DIR$/Test1/Spital/Ex4 - Prototype/Ex4 - Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test1/Farmacie/Farmacie.iml" filepath="$PROJECT_DIR$/Test1/Farmacie/Farmacie.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module2/Module2.iml" filepath="$PROJECT_DIR$/Module2/Module2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module3 - Singleton/Module3 - Singleton.iml" filepath="$PROJECT_DIR$/Module3 - Singleton/Module3 - Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module4 - FactoryMethod.iml" filepath="$PROJECT_DIR$/Module4 - FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module4 - SimpleFactory.iml" filepath="$PROJECT_DIR$/Module4 - SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module5.iml" filepath="$PROJECT_DIR$/Module5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Popa_Isabela_ActivitateCTS2024.iml" filepath="$PROJECT_DIR$/Popa_Isabela_ActivitateCTS2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test1/Restaurant/Restaurant.iml" filepath="$PROJECT_DIR$/Test1/Restaurant/Restaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test1/Spital/Spital.iml" filepath="$PROJECT_DIR$/Test1/Spital/Spital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test1/Test1.iml" filepath="$PROJECT_DIR$/Test1/Test1.iml" />
     </modules>
   </component>
 </project>

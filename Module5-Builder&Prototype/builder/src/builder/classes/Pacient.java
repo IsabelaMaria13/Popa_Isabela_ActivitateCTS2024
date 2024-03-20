@@ -1,7 +1,6 @@
 package builder.classes;
 
 public class Pacient {
-
     private boolean patRabatabil;
     private boolean micDejunInclus;
     private boolean papuciDeCamere;
@@ -18,7 +17,7 @@ public class Pacient {
         return patRabatabil;
     }
 
-     void setPatRabatabil(boolean patRabatabil) {
+    void setPatRabatabil(boolean patRabatabil) {
         this.patRabatabil = patRabatabil;
     }
 
@@ -26,7 +25,7 @@ public class Pacient {
         return micDejunInclus;
     }
 
-     void setMicDejunInclus(boolean micDejunInclus) {
+    void setMicDejunInclus(boolean micDejunInclus) {
         this.micDejunInclus = micDejunInclus;
     }
 
@@ -34,7 +33,7 @@ public class Pacient {
         return papuciDeCamere;
     }
 
-     void setPapuciDeCamere(boolean papuciDeCamere) {
+    void setPapuciDeCamere(boolean papuciDeCamere) {
         this.papuciDeCamere = papuciDeCamere;
     }
 
@@ -42,7 +41,7 @@ public class Pacient {
         return halatPentruInterior;
     }
 
-     void setHalatPentruInterior(boolean halatPentruInterior) {
+    void setHalatPentruInterior(boolean halatPentruInterior) {
         this.halatPentruInterior = halatPentruInterior;
     }
 
