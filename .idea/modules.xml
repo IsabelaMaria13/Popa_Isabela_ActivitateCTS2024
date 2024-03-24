@@ -3,17 +3,21 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Test1/Banca/Banca.iml" filepath="$PROJECT_DIR$/Test1/Banca/Banca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test1/STB/Ex - FactoryMethod/Ex - FactoryMethod.iml" filepath="$PROJECT_DIR$/Test1/STB/Ex - FactoryMethod/Ex - FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test1/Banca/Ex 1 - SimpleFactoryCredite/Ex 1 - SimpleFactoryCredite.iml" filepath="$PROJECT_DIR$/Test1/Banca/Ex 1 - SimpleFactoryCredite/Ex 1 - SimpleFactoryCredite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test1/Spital/Ex1 - Builder/Ex1 - Builder.iml" filepath="$PROJECT_DIR$/Test1/Spital/Ex1 - Builder/Ex1 - Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test1/Farmacie/Ex1 - Simple Factory/Ex1 - Simple Factory.iml" filepath="$PROJECT_DIR$/Test1/Farmacie/Ex1 - Simple Factory/Ex1 - Simple Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test1/Sportiv/Ex1 - Simple Factory Sportiv/Ex1 - Simple Factory Sportiv.iml" filepath="$PROJECT_DIR$/Test1/Sportiv/Ex1 - Simple Factory Sportiv/Ex1 - Simple Factory Sportiv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test1/STB/Ex1 - SimpleFactory/Ex1 - SimpleFactory.iml" filepath="$PROJECT_DIR$/Test1/STB/Ex1 - SimpleFactory/Ex1 - SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test1/Restaurant/Ex1- Factory Method/Ex1- Factory Method.iml" filepath="$PROJECT_DIR$/Test1/Restaurant/Ex1- Factory Method/Ex1- Factory Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test1/Restaurant/Ex2 - Builder/Ex2 - Builder.iml" filepath="$PROJECT_DIR$/Test1/Restaurant/Ex2 - Builder/Ex2 - Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test1/Farmacie/Ex2 - Factory Method/Ex2 - Factory Method.iml" filepath="$PROJECT_DIR$/Test1/Farmacie/Ex2 - Factory Method/Ex2 - Factory Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test1/Sportiv/Ex2 - FactoryMethod/Ex2 - FactoryMethod.iml" filepath="$PROJECT_DIR$/Test1/Sportiv/Ex2 - FactoryMethod/Ex2 - FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test1/Banca/Ex2 - FactoryMethodClienti/Ex2 - FactoryMethodClienti.iml" filepath="$PROJECT_DIR$/Test1/Banca/Ex2 - FactoryMethodClienti/Ex2 - FactoryMethodClienti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test1/STB/Ex2 - PrototypAutobuz/Ex2 - PrototypAutobuz.iml" filepath="$PROJECT_DIR$/Test1/STB/Ex2 - PrototypAutobuz/Ex2 - PrototypAutobuz.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test1/Spital/Ex2 - Simple Factory/Ex2 - Simple Factory.iml" filepath="$PROJECT_DIR$/Test1/Spital/Ex2 - Simple Factory/Ex2 - Simple Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test1/Farmacie/Ex3 - Builder/Ex3 - Builder.iml" filepath="$PROJECT_DIR$/Test1/Farmacie/Ex3 - Builder/Ex3 - Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test1/STB/Ex3 - BuilderAutobuzLinie/Ex3 - BuilderAutobuzLinie.iml" filepath="$PROJECT_DIR$/Test1/STB/Ex3 - BuilderAutobuzLinie/Ex3 - BuilderAutobuzLinie.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test1/Banca/Ex3 - BuilderCard/Ex3 - BuilderCard.iml" filepath="$PROJECT_DIR$/Test1/Banca/Ex3 - BuilderCard/Ex3 - BuilderCard.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test1/Sportiv/Ex3 - BuilderSportiv/Ex3 - BuilderSportiv.iml" filepath="$PROJECT_DIR$/Test1/Sportiv/Ex3 - BuilderSportiv/Ex3 - BuilderSportiv.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test1/Spital/Ex3 - Factory Method/Ex3 - Factory Method.iml" filepath="$PROJECT_DIR$/Test1/Spital/Ex3 - Factory Method/Ex3 - Factory Method.iml" />
