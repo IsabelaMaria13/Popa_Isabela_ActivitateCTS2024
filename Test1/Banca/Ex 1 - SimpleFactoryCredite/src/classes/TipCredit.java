@@ -1,4 +1,4 @@
-package classes.factory;
+package classes;
 
 public enum TipCredit {
     creditIpotecar,

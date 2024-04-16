@@ -1,7 +1,7 @@
 package main;
 
-import classes.factory.Credite;
-import classes.factory.TipCredit;
+import classes.Credite;
+import classes.TipCredit;
 
 public class Main {
     public static void main(String[] args) throws Exception{

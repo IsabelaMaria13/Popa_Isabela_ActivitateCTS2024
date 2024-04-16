@@ -1,9 +1,9 @@
 package main;
 
 import classes.clients.Client;
-import classes.factory.FabricaClienti;
-import classes.factory.FabricaPersoaneFizice;
-import classes.factory.FabricaPersoaneJuridice;
+import classes.FabricaClienti;
+import classes.FabricaPersoaneFizice;
+import classes.FabricaPersoaneJuridice;
 
 public class Main {
     public static void inregistrareClienti(FabricaClienti clienti, String nume, int suma){

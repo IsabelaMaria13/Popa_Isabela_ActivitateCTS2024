@@ -1,4 +1,4 @@
-package classes.factory;
+package classes;
 
 import classes.bank.Credit;
 import classes.bank.CreditBancar;
