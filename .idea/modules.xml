@@ -11,16 +11,21 @@
       <module fileurl="file://$PROJECT_DIR$/Exercitii/STB/Ex1 - SimpleFactory/Ex1 - SimpleFactory.iml" filepath="$PROJECT_DIR$/Exercitii/STB/Ex1 - SimpleFactory/Ex1 - SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Restaurant/Ex1- Factory Method/Ex1- Factory Method.iml" filepath="$PROJECT_DIR$/Exercitii/Restaurant/Ex1- Factory Method/Ex1- Factory Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Banca/Ex10 - FlyweightBanca/Ex10 - FlyweightBanca.iml" filepath="$PROJECT_DIR$/Exercitii/Banca/Ex10 - FlyweightBanca/Ex10 - FlyweightBanca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercitii/Farmacie/Ex10 - FlyweightFarmacie/Ex10 - FlyweightFarmacie.iml" filepath="$PROJECT_DIR$/Exercitii/Farmacie/Ex10 - FlyweightFarmacie/Ex10 - FlyweightFarmacie.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Spital/Ex10 - FlyweightSpital/Ex10 - FlyweightSpital.iml" filepath="$PROJECT_DIR$/Exercitii/Spital/Ex10 - FlyweightSpital/Ex10 - FlyweightSpital.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Spital/Ex11 - Strategy/Ex11 - Strategy.iml" filepath="$PROJECT_DIR$/Exercitii/Spital/Ex11 - Strategy/Ex11 - Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Banca/Ex11 - StrategyBanca/Ex11 - StrategyBanca.iml" filepath="$PROJECT_DIR$/Exercitii/Banca/Ex11 - StrategyBanca/Ex11 - StrategyBanca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercitii/Farmacie/Ex11 - StrategyFarmacie/Ex11 - StrategyFarmacie.iml" filepath="$PROJECT_DIR$/Exercitii/Farmacie/Ex11 - StrategyFarmacie/Ex11 - StrategyFarmacie.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Restaurant/Ex11 - StrategyRestaurant/Ex11 - StrategyRestaurant.iml" filepath="$PROJECT_DIR$/Exercitii/Restaurant/Ex11 - StrategyRestaurant/Ex11 - StrategyRestaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Spital/Ex12 - Observer/Ex12 - Observer.iml" filepath="$PROJECT_DIR$/Exercitii/Spital/Ex12 - Observer/Ex12 - Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Banca/Ex12 - ObserverBanca/Ex12 - ObserverBanca.iml" filepath="$PROJECT_DIR$/Exercitii/Banca/Ex12 - ObserverBanca/Ex12 - ObserverBanca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercitii/Farmacie/Ex12 - ObserverFarmacie/Ex12 - ObserverFarmacie.iml" filepath="$PROJECT_DIR$/Exercitii/Farmacie/Ex12 - ObserverFarmacie/Ex12 - ObserverFarmacie.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Restaurant/Ex12 - ObserverRestaurant/Ex12 - ObserverRestaurant.iml" filepath="$PROJECT_DIR$/Exercitii/Restaurant/Ex12 - ObserverRestaurant/Ex12 - ObserverRestaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Banca/Ex13 - StateBanca/Ex13 - StateBanca.iml" filepath="$PROJECT_DIR$/Exercitii/Banca/Ex13 - StateBanca/Ex13 - StateBanca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercitii/Farmacie/Ex13 - StateFarmacie/Ex13 - StateFarmacie.iml" filepath="$PROJECT_DIR$/Exercitii/Farmacie/Ex13 - StateFarmacie/Ex13 - StateFarmacie.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Restaurant/Ex13 - StateRestaurant/Ex13 - StateRestaurant.iml" filepath="$PROJECT_DIR$/Exercitii/Restaurant/Ex13 - StateRestaurant/Ex13 - StateRestaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Banca/Ex14 - TemplateBanca/Ex14 - TemplateBanca.iml" filepath="$PROJECT_DIR$/Exercitii/Banca/Ex14 - TemplateBanca/Ex14 - TemplateBanca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercitii/Farmacie/Ex14 - TemplateFarmacie/Ex14 - TemplateFarmacie.iml" filepath="$PROJECT_DIR$/Exercitii/Farmacie/Ex14 - TemplateFarmacie/Ex14 - TemplateFarmacie.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Restaurant/Ex14 - TemplateRestaurant/Ex14 - TemplateRestaurant.iml" filepath="$PROJECT_DIR$/Exercitii/Restaurant/Ex14 - TemplateRestaurant/Ex14 - TemplateRestaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Banca/Ex16 - Chain of responability/Ex16 - Chain of responability.iml" filepath="$PROJECT_DIR$/Exercitii/Banca/Ex16 - Chain of responability/Ex16 - Chain of responability.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Restaurant/Ex2 - Builder/Ex2 - Builder.iml" filepath="$PROJECT_DIR$/Exercitii/Restaurant/Ex2 - Builder/Ex2 - Builder.iml" />
@@ -40,16 +45,21 @@
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Banca/Ex4 - PrototypeCont/Ex4 - PrototypeCont.iml" filepath="$PROJECT_DIR$/Exercitii/Banca/Ex4 - PrototypeCont/Ex4 - PrototypeCont.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Sportiv/Ex4 - SportivPrototype/Ex4 - SportivPrototype.iml" filepath="$PROJECT_DIR$/Exercitii/Sportiv/Ex4 - SportivPrototype/Ex4 - SportivPrototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Farmacie/Ex4 - prototype/Ex4 - prototype.iml" filepath="$PROJECT_DIR$/Exercitii/Farmacie/Ex4 - prototype/Ex4 - prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercitii/Farmacie/Ex5 - AdapterFarmacie/Ex5 - AdapterFarmacie.iml" filepath="$PROJECT_DIR$/Exercitii/Farmacie/Ex5 - AdapterFarmacie/Ex5 - AdapterFarmacie.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Restaurant/Ex5 - AdapterRestaurant/Ex5 - AdapterRestaurant.iml" filepath="$PROJECT_DIR$/Exercitii/Restaurant/Ex5 - AdapterRestaurant/Ex5 - AdapterRestaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Banca/Ex5 -AdapterBanca/Ex5 -AdapterBanca.iml" filepath="$PROJECT_DIR$/Exercitii/Banca/Ex5 -AdapterBanca/Ex5 -AdapterBanca.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Spital/Ex5- AdapterMedicament/Ex5- AdapterMedicament.iml" filepath="$PROJECT_DIR$/Exercitii/Spital/Ex5- AdapterMedicament/Ex5- AdapterMedicament.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Banca/Ex6 - DecoratorBanca/Ex6 - DecoratorBanca.iml" filepath="$PROJECT_DIR$/Exercitii/Banca/Ex6 - DecoratorBanca/Ex6 - DecoratorBanca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercitii/Farmacie/Ex6 - FacadeFarmacie/Ex6 - FacadeFarmacie.iml" filepath="$PROJECT_DIR$/Exercitii/Farmacie/Ex6 - FacadeFarmacie/Ex6 - FacadeFarmacie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercitii/Farmacie/Ex7 - DecoratorFarmacie/Ex7 - DecoratorFarmacie.iml" filepath="$PROJECT_DIR$/Exercitii/Farmacie/Ex7 - DecoratorFarmacie/Ex7 - DecoratorFarmacie.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Restaurant/Ex7 - DecoratorRestaurant/Ex7 - DecoratorRestaurant.iml" filepath="$PROJECT_DIR$/Exercitii/Restaurant/Ex7 - DecoratorRestaurant/Ex7 - DecoratorRestaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Banca/Ex7 - FacadeBanca/Ex7 - FacadeBanca.iml" filepath="$PROJECT_DIR$/Exercitii/Banca/Ex7 - FacadeBanca/Ex7 - FacadeBanca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercitii/Farmacie/Ex8 - CompositeFarmcie/Ex8 - CompositeFarmcie.iml" filepath="$PROJECT_DIR$/Exercitii/Farmacie/Ex8 - CompositeFarmcie/Ex8 - CompositeFarmcie.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Restaurant/Ex8 - CompositeRestaurant/Ex8 - CompositeRestaurant.iml" filepath="$PROJECT_DIR$/Exercitii/Restaurant/Ex8 - CompositeRestaurant/Ex8 - CompositeRestaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Spital/Ex8 - CompositeSpital/Ex8 - CompositeSpital.iml" filepath="$PROJECT_DIR$/Exercitii/Spital/Ex8 - CompositeSpital/Ex8 - CompositeSpital.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Banca/Ex8 - ProxyBanca/Ex8 - ProxyBanca.iml" filepath="$PROJECT_DIR$/Exercitii/Banca/Ex8 - ProxyBanca/Ex8 - ProxyBanca.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Banca/Ex9 - CompositeBanca/Ex9 - CompositeBanca.iml" filepath="$PROJECT_DIR$/Exercitii/Banca/Ex9 - CompositeBanca/Ex9 - CompositeBanca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercitii/Farmacie/Ex9 - ProxyFarmacie/Ex9 - ProxyFarmacie.iml" filepath="$PROJECT_DIR$/Exercitii/Farmacie/Ex9 - ProxyFarmacie/Ex9 - ProxyFarmacie.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Restaurant/Ex9 - ProxyRestaurant/Ex9 - ProxyRestaurant.iml" filepath="$PROJECT_DIR$/Exercitii/Restaurant/Ex9 - ProxyRestaurant/Ex9 - ProxyRestaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Spital/Ex9 - ProxySpital/Ex9 - ProxySpital.iml" filepath="$PROJECT_DIR$/Exercitii/Spital/Ex9 - ProxySpital/Ex9 - ProxySpital.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Exercitii.iml" filepath="$PROJECT_DIR$/Exercitii/Exercitii.iml" />
